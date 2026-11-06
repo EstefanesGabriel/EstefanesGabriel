@@ -1,16 +1,27 @@
-## Hi there 👋
+# Gabriel Rodrigues Estefanes
 
-<!--
-**EstefanesGabriel/EstefanesGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | C#/.NET | Backend Development | COBOL**
 
-Here are some ideas to get you started:
+I'm a Software Engineer with professional experience in enterprise software development, legacy system modernization, and backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working with C#/.NET and ASP.NET Core, focusing on migrating desktop applications to modern web-based solutions. Previously worked with COBOL-based ERP systems.
+
+I'm also an Information Systems undergraduate at UTFPR and develop independent software projects involving backend architecture, relational databases, and cloud technologies.
+
+### Tech Stack
+
+- **Backend:** C#, .NET, ASP.NET Core, Entity Framework Core, COBOL
+- **Frontend:** React, TypeScript, Blazor
+- **Databases:** PostgreSQL, SQL
+- **Tools:** Git, Docker, REST APIs
+
+### Featured Project
+
+**[FLIGER — Aviation Maintenance SaaS](https://www.fliger.com.br/)**
+
+A multi-tenant SaaS platform for aviation maintenance management, developed using C#/.NET, React, TypeScript, and PostgreSQL.
+
+### Connect
+
+- [LinkedIn](https://www.linkedin.com/in/gabriel-estefanes/)
+- [FLIGER](https://www.fliger.com.br/)
